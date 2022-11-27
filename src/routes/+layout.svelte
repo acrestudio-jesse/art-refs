@@ -1,5 +1,6 @@
 <script>
 	import '../app.css';
+	export const prerender = true;
 </script>
 
 <nav class="flex justify-between p-4 bg-emerald-600">
