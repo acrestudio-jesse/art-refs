@@ -4,7 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			backgroundImage: {
-				perspective: "url:('/images/perspective/2point/step9-4.webp')"
+				perspectiveTwo: "url:('/images/2point/step9-4.webp')",
+				perspectiveOne: "url:('/images/2point/step8-2.webp')"
 			}
 		}
 	},
