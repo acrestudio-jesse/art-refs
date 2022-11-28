@@ -251,11 +251,6 @@
 						these cubes which will appear together in this faux 3-D space.
 					</p>
 					<img
-						src="/images/2point/step9-1.webp"
-						alt="1 point perspective step 1."
-						class="max-w-screen-sm"
-					/>
-					<img
 						src="/images/2point/step9-2.webp"
 						alt="1 point perspective step 1."
 						class="max-w-screen-sm"
